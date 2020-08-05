@@ -233,7 +233,7 @@ li:before {
 		font-size: 40px;
 		font-weight: 600;
 		color: #fff;
-		margin: 0;
+		margin: 5px 0 5px 0;
 	}
 
 	p {
@@ -247,13 +247,13 @@ li:before {
 
 	button {
 		font-family: 'Source Code Pro', monospace;
-		font-size: 15px;
+		font-size: 18px;
 		font-weight: 300;
 		color: #e7db74;
 		background: none;
 		border: 1px #e7db74 solid;
 		border-radius: 3px;
-		padding: 5px;
+		padding: 10px;
 		user-select: none;
 	}
 
@@ -273,12 +273,12 @@ li:before {
 	}
 
 	#main {
-		margin-top: 25%;
+		margin-top: 50%;
 	}
 
 	#main .desc {
 		max-width: 100%; 
-		margin: 5% 0;
+		margin: 10% 0 20% 0;
 	}
 
 	#about {
