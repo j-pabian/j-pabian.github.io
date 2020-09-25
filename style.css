@@ -358,7 +358,7 @@ div .timeline_element-tech {
 
 @media only screen and (max-width: 768px) {
 	#container {
-		margin-top: 9%;
+		margin: 0 6%;
 		opacity: 0;
 	  	-webkit-transition: 0.7s opacity, 0.5s margin-top;
 		-moz-transition: 0.7s opacity, 0.5s margin-top;
