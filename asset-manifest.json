@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/j-pabian.github.io/static/css/main.74d0589a.chunk.css",
+    "main.js": "/j-pabian.github.io/static/js/main.102f2539.chunk.js",
+    "main.js.map": "/j-pabian.github.io/static/js/main.102f2539.chunk.js.map",
+    "runtime-main.js": "/j-pabian.github.io/static/js/runtime-main.32825de8.js",
+    "runtime-main.js.map": "/j-pabian.github.io/static/js/runtime-main.32825de8.js.map",
+    "static/js/2.6ab48bdb.chunk.js": "/j-pabian.github.io/static/js/2.6ab48bdb.chunk.js",
+    "static/js/2.6ab48bdb.chunk.js.map": "/j-pabian.github.io/static/js/2.6ab48bdb.chunk.js.map",
+    "static/js/3.0ff1681f.chunk.js": "/j-pabian.github.io/static/js/3.0ff1681f.chunk.js",
+    "static/js/3.0ff1681f.chunk.js.map": "/j-pabian.github.io/static/js/3.0ff1681f.chunk.js.map",
+    "index.html": "/j-pabian.github.io/index.html",
+    "static/css/main.74d0589a.chunk.css.map": "/j-pabian.github.io/static/css/main.74d0589a.chunk.css.map",
+    "static/js/2.6ab48bdb.chunk.js.LICENSE.txt": "/j-pabian.github.io/static/js/2.6ab48bdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32825de8.js",
+    "static/js/2.6ab48bdb.chunk.js",
+    "static/css/main.74d0589a.chunk.css",
+    "static/js/main.102f2539.chunk.js"
+  ]
+}
